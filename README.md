@@ -4,7 +4,7 @@ This program acts as a simple expense tracker. A user provides their income for 
 
 My purpose for writing this program ws to introduce myself to the Java programming language. Through writing this program, I was able to become more familiar with the particulars of the language, including syntax, data structures, and packages.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/pvaXSYWY4m4)
 
 # Development Environment
 
