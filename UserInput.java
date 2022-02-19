@@ -15,7 +15,8 @@ class UserInput {
             } catch (Exception e) {
                 System.out.print("\nPlease enter a valid number.\n");
             }
-            input.nextLine();        
+            input.nextLine();
+        // Repeats until the user enters a valid number.     
         } while (income <= 0);
         return income;
     }
@@ -32,7 +33,8 @@ class UserInput {
             } catch (Exception e) {
                 System.out.print("\nPlease enter a valid number.\n");
             }
-            input.nextLine();        
+            input.nextLine();
+        // Repeats until the user enters a valid number.
         } while (cost <= 0);
         return cost;
     }
